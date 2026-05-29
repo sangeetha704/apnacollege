@@ -1,2 +1,3 @@
 # apnacollege
-this is tutorial repository by shradaa khapra
+this is tutorial repository by shradaa(apna college)
+
